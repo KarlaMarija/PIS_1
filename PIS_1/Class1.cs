@@ -9,12 +9,15 @@ namespace PIS_1
         static void Main(string[] args)
         {
             Console.WriteLine("Nova klasa");
+            Console.WriteLine("Ručno dodana promjena");
         }
 
         void Hello() // Prazna metoda
         {
 
         }
+        
+        
 
     }
 }
