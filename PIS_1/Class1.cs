@@ -10,5 +10,11 @@ namespace PIS_1
         {
             Console.WriteLine("Nova klasa");
         }
+
+        void Hello() // Prazna metoda
+        {
+
+        }
+
     }
 }
